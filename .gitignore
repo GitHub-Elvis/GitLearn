@@ -1,0 +1,4 @@
+#this for the special file which will not prompt by git status(with red color wrapped->untracked)
+*.exe
+*.pdf
+*.epu
